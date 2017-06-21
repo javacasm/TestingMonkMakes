@@ -34,7 +34,7 @@ Los ejemplos y los diagramas de los montajes están disponibles en [github](http
 
 ## Opinión
 
-Me parece un kit muy interesante y el libro de instrucciones creo que le da un valor extra para personas que están comenzando.
+Me parece un kit muy interesante, con los suficientes componentes para introducirse perfectamente el mundo de Arduino. El libro que se incluye le da un valor extra para personas que están comenzando, facilitándoles enormemente el aprendizaje.
 
 
 ## Mejoras
