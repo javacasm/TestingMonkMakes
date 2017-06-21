@@ -1,4 +1,4 @@
-# MonkMakesDuino
+# Kit de inciación con LCD MonkMakesDuino
 
 Se trata de un kit de iniciación con los típicos componentes para empezar con Arduino y un LCD
 
