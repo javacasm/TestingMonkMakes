@@ -14,6 +14,12 @@ Incluye
 
 Se puede descargar el código de ejemplo de la cuenta de [github de Simon Monk](https://github.com/simonmonk/servosix)
 
+Podemos comprar el kit en [Amazon](https://www.amazon.com/dp/B01J40NPVW) por 15$
+
 ## Mejoras
 
 * Indicar para qué modelos de Rasperry Pi es válida la placa de identificación de pines
+
+## Opinión
+
+Me parece un kit muy interesante y por un precio muy ajustado nos permite controlar hasta servos con nuestra Raspberry Pi minimizando el riesgo de estropearla
