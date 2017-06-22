@@ -8,13 +8,13 @@ Incluye una placa compatible con Arduino UNO llamada [MonkMakesDuino](http://www
 
 ![MonkMakesDuino](./images/MonkMakesDuino.jpg)
 
-Los pines están perfectamente indicados y la serigrafía ya nos da mucha información sobre la placa, por ejemplo las intensidades máximas de cada pin.
+Los pines están perfectamente indicados y la serigrafía ya nos da mucha información sobre la placa, por ejemplo las intensidades máximas de cada pin, los pines de comunicaciones (Tx y Rx), así como los pines que soportan PWM.
 
 La placa incluye 8 entradas analógicas + 14 entradas/salidas digitales
 
 El kit incluye:
-* Placa compatible Arduino UNO
-* Placa de prototipo
+* Placa MonkMakesDuino, compatible Arduino UNO
+* Placa de prototipo (breadboard)
 * Cable USB
 * 12 leds rojos (y sus 12 resistencias de 270ohmios)
 * 2 pulsadores
@@ -34,7 +34,7 @@ Los ejemplos y los diagramas de los montajes están disponibles en [github](http
 
 ## Opinión
 
-Me parece un kit muy interesante, con los suficientes componentes para introducirse perfectamente el mundo de Arduino. El libro que se incluye le da un valor extra para personas que están comenzando, facilitándoles enormemente el aprendizaje.
+Me parece un kit muy interesante, con los suficientes componentes para introducirse perfectamente en el mundo de Arduino creando proyectos. El libro que se incluye le da un valor extra para personas que están comenzando, facilitándoles enormemente el aprendizaje.
 
 
 ## Mejoras
